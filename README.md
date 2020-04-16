@@ -7,7 +7,7 @@
     Design with HTML5 & CSS3
     Google Web Font Include
     Social Button
-    Footer Column
+    Footer Weights
 
 ### Unfavorable:
     No Responsive
